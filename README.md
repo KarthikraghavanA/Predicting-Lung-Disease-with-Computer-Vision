@@ -29,4 +29,4 @@ We ran for 5 epochs and the result was okay with final loss and accuracy as belo
 
 ## Loading the model for prediction
 
-![image](https://user-images.githubusercontent.com/112689649/212814908-e1c7efd9-9d33-49c8-b315-5f85ca5febd2.png)
+![image](https://user-images.githubusercontent.com/112689649/212815420-7f5821d8-e97a-4474-9362-57bbe8d2a5a5.png)
